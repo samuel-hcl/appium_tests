@@ -1,0 +1,5 @@
+[caps]
+app = "./app.apk"
+platformName = "android"
+newCommandTimeout = 3000
+resetKeyboard = true

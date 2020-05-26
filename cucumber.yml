@@ -1,0 +1,1 @@
+default: --require env.rb --format pretty --format html -o report.html
