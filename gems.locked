@@ -61,7 +61,7 @@ GEM
       method_source (~> 1.0)
     racc (1.7.3)
     require_all (3.0.0)
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     rspec-expectations (3.11.0)
       diff-lcs (>= 1.2.0, < 2.0)
