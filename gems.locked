@@ -61,8 +61,7 @@ GEM
       method_source (~> 1.0)
     racc (1.7.3)
     require_all (3.0.0)
-    rexml (3.3.6)
-      strscan
+    rexml (3.3.9)
     rspec-expectations (3.11.0)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.11.0)
@@ -72,7 +71,6 @@ GEM
       childprocess (>= 0.5, < 5.0)
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2)
-    strscan (3.1.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     tomlrb (2.0.1)
